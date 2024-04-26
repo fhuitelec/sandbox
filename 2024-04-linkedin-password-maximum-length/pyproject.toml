@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "linkedin-password-maximum-length"
+version = "0.1.0"
+description = "CLI to benchmark `argon2id` to verify how password length impacts hashing"
+authors = ["Fabien Huitelec <fabien@huitelec.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+argon2-cffi = "^23.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
