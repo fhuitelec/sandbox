@@ -83,7 +83,7 @@ We use Docker's [resource constraints](https://docs.docker.com/config/containers
 
 ## Sources
 
-- (🇫🇷) [ANSSI's Recommendations relating to multi-factor authentication and to passwords v2](https://cyber.gouv.fr/sites/default/files/2021/10/anssi-guide-authentification_multifacteur_et_mots_de_passe.pdf) ()
+- (🇫🇷) [ANSSI's Recommendations relating to multi-factor authentication and to passwords v2](https://cyber.gouv.fr/sites/default/files/2021/10/anssi-guide-authentification_multifacteur_et_mots_de_passe.pdf)
   - published on 2021/10/08
   - see section R22 p. 29
 - (🇫🇷) [CNIL's Deliberation No. 2022-100 adopting recommendations regarding passwords and other shared secrets](https://www.cnil.fr/sites/cnil/files/atoms/files/deliberation-2022-100-du-21-juillet-2022_recommandation-aux-mots-de-passe.pdf)
